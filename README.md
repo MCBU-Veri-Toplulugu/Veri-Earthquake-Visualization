@@ -37,3 +37,5 @@ This is a simple demo application to visualize earthquake data in real-time.
 ## License
 
 This project is licensed under the terms of the MIT license.
+
+![Image](veri.jpg)
