@@ -30,7 +30,7 @@ This is a simple demo application to visualize earthquake data in real-time.
 - templates/: This directory contains the HTML templates used by the Flask web app.
 - static/: This directory contains the CSS and JavaScript files used by the HTML templates.
 
-![Image](https://drive.google.com/uc?id=110J_cArqQIPuZY7iFRgBUj5yXy_8hYdE)
+![Image](https://drive.google.com/uc?id=158LT4_fYjoA2ML0aBHQA6aAl72onMtjz)
 
 
 ## License
